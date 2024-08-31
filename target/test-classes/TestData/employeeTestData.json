@@ -1,0 +1,19 @@
+{
+	"createEmployee" :
+	{
+		"firstName" : "Sanuja",
+		"lastName" : "Patil",
+		"address" : "Pune",
+		"mobileNumber" : 9009000,
+		"gender" : "female"
+	},
+	"updateEmployee" :
+	{
+		"firstName" : "Rohit",
+		"lastName" : "Sathe",
+		"address" : "Mumbai",
+		"mobileNumber" : 808080,
+		"gender" : "male"
+	}
+
+}

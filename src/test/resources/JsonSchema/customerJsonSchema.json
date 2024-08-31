@@ -1,0 +1,40 @@
+{
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "type": "object",
+  "properties": {
+    "id": {
+      "type": "string"
+    },
+    "cust_fName": {
+      "type": "string"
+    },
+    "cust_lName": {
+      "type": "string"
+    },
+    "cust_billingAddress": {
+      "type": "string"
+    },
+    "product_Name": {
+      "type": "string"
+    },
+    "product_price": {
+      "type": "number"
+    },
+    "product_Discount": {
+      "type": "integer"
+    },
+    "product_info": {
+      "type": "string"
+    }
+  },
+  "required": [
+    "id",
+    "cust_fName",
+    "cust_lName",
+    "cust_billingAddress",
+    "product_Name",
+    "product_price",
+    "product_Discount",
+    "product_info"
+  ]
+}

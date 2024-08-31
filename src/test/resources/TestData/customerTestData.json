@@ -1,0 +1,20 @@
+{
+	"createCustomer": {
+		"cust_fName": "rajesh",
+		"cust_lName": "Patil",
+		"cust_billingAddress": "pune",
+		"product_Name": "IPhone",
+		"product_price": 199.23,
+		"product_Discount": 10,
+		"product_info": "Iphone 15"
+	},
+	"updateCustomer": {
+		"cust_fName": "Mohit",
+		"cust_lName": "Kade",
+		"cust_billingAddress": "Mumbai",
+		"product_Name": "Phone",
+		"product_price": 299.23,
+		"product_Discount": 34,
+		"product_info": "Iphone"
+	}
+}
